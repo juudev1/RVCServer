@@ -1,0 +1,4 @@
+jrvc
+fastapi
+python-multipart
+uvicorn
